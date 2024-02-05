@@ -1,0 +1,16 @@
+{
+  "name": "wicit-analytics",
+  "version": "1.0.0",
+  "description": "This was used to answer the question of whether or not a web application web had hosted was recieving any requests.  unused but maybe useful.",
+  "main": "requests-per-day.test.js",
+  "scripts": {
+    "test": "jest",
+    "test-watch": "jest --watchAll"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "jest": "^27.2.3"
+  }
+}
